@@ -1,7 +1,4 @@
----
-title: Writing Goals and Principles
-layout: article
----
+# Writing Goals and Principles
 
 With every piece of content we publish, we aim to:
 

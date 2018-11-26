@@ -1,7 +1,4 @@
----
-title: Writing for Social Media
-layout: article
----
+# Writing for Social Media
 
 We use social media to build relationships with Mailchimp users and share all the cool stuff we do. But it also creates opportunities to say the wrong thing, put off customers, and damage our brand. So we’re careful and deliberate in what we post to our social channels. This section lays out how we strike that delicate balance.
 

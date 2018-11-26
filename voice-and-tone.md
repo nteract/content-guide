@@ -1,7 +1,4 @@
----
-title: Voice and Tone
-layout: article
----
+# Voice and Tone
 
 One way we write empowering content is by being aware of our voice and our tone. This section explains the difference between voice and tone, and lays out the elements of each as they apply to Mailchimp.
 

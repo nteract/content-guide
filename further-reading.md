@@ -1,7 +1,4 @@
----
-title: Further Reading
-layout: article
----
+# Further Reading
 
 We love these style guides:
 

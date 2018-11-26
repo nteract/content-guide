@@ -1,7 +1,4 @@
----
-title: Word List
-layout: article
----
+# Word List
 
 These words can be slippery. Here’s how we write them.
 
@@ -48,5 +45,5 @@ These words can be slippery. Here’s how we write them.
 - internets, interwebs, or any other variation of the word “internet”
 - ninja, rockstar, wizard, unicorn (unless referring to a literal ninja, rockstar, wizard, or unicorn)
 - young, old, elderly, or any other word describing a person's age
--  crushing it, killing it
--  crazy, insane, or similar words to describe people
+- crushing it, killing it
+- crazy, insane, or similar words to describe people
