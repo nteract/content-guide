@@ -97,11 +97,10 @@ Technical content uses organization, capitalization, and other formatting to hel
 
 Capitalize proper names of nteract products, features, pages, tools, and team names when directly mentioned. In step-by-step instructions, capitalize and italicize navigation and button labels as they appear in the app.
 
-- nteract, Mandrill
+- nteract, Save As
 - Campaigns page, Lists page
-- Compliance Team, Billing Team
-- Navigate to the *Automation* page.
-- Click *Save & Close*.
+- Navigate to the *Components* page.
+- Click *Run Cell*.
 
 #### Headings
 

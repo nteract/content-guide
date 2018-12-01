@@ -4,7 +4,9 @@ This page contains content templates that you can use to write READMEs, code com
 
 ```
 /**
- * A brief description of what the function does.
+ * A brief description of what the function does. It should be
+ * a single sentence long and being with an verb in simple
+ * present tense.
  *
  * @param nameOfParam   Description of param
  * @param otherParam    Description of other param
