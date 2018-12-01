@@ -98,7 +98,6 @@ Technical content uses organization, capitalization, and other formatting to hel
 Capitalize proper names of nteract products, features, pages, tools, and team names when directly mentioned. In step-by-step instructions, capitalize and italicize navigation and button labels as they appear in the app.
 
 - nteract, Save As
-- Campaigns page, Lists page
 - Navigate to the *Components* page.
 - Click *Run Cell*.
 
@@ -106,14 +105,14 @@ Capitalize proper names of nteract products, features, pages, tools, and team na
 
 Group article content with H2s and H3s. Use H2s to organize content by higher-level topics or goals, and use H3s within each section to separate supporting information or tasks.
 
-- Upload a List
-  - Format your CSV File
-  - Import your CSV File
-  - Match Fields
-- Best Practices for Lists
-  - List Collection
-  - List Management
-  - Email Content and Delivery
+- Writing TypeScript
+  - How to use types
+  - How to format functions
+  - How to design APIs
+- Best Practices for Notebooks
+  - Naming Notebooks
+  - Sharing Notebooks
+  - Deploying Notebooks
 
 #### Ordered Lists
 
