@@ -15,9 +15,9 @@ Consider using a template if:
 - Writers need to be able to create it quickly
 - You want to encourage repeat visits and familiarity with your content
 
-All educational content at nteract relies heavily on content templates. We use templates for Knowledge Base articles, Integration Directory descriptions, marketing guides, and more.
+All educational content at nteract relies heavily on content templates. We use templates for documentation strings, READMEs, and more.
 
-Find all of our structured content templates in the [Resources section](/18-resources.html.md).
+Find all of our structured content templates in the [templates page](templates.md).
 
 ## Guidelines
 
