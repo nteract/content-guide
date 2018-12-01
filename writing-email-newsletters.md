@@ -1,12 +1,10 @@
 # Writing Email Newsletters
 
-We send a lot of email ourselves, and we follow our own best practices to set an example for users. But as devices shrink and the inbox evolves, our oldest tip is still the most important: Only send when you have something to say.
-
 At nteract, we send a monthly newsletter that keeps our community aware of the going-ons and plans of the community.
 
 ## Guidelines
 
-Email newsletters generally follow the style points outlined in the [Voice and tone](/02-voice-and-tone.html.md) and [Grammar and mechanics](/04-grammar-and-mechanics.html.md) sections. Here are some additional considerations.
+Email newsletters generally follow the style points outlined in the [Voice and tone](voice-and-tone.md) and [Grammar and mechanics](grammar-and-mechanics.md) sections. Here are some additional considerations.
 
 ### Consider all elements
 
