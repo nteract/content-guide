@@ -18,9 +18,9 @@ Whether people know what they need from us or don’t know the first thing about
 
 All of this means that when we write copy:
 
-1. **We are plainspoken.** We understand the world our users are living in: one muddled by hyperbolic language, strange technical jargon, and confusing documentation. We strip all that away and value clarity above all. Because users come to nteract to discover delightful interactive computing experiences, we avoid distractions like fluffy metaphors and cheap plays to emotion. 
+1. **We are plainspoken.** We understand the world our users are living in: one muddled by unapproachable language, strange technical jargon, and confusing documentation. We strip all that away and value clarity above all. Because users come to nteract to discover delightful interactive computing experiences, we avoid distractions like fluffy metaphors and cheap plays to emotion. 
 
-2. **We are genuine.** We understand what data scientists, software engineers, and researchers need because we are data scientists, software engineers, and researchers. That means we relate to users' challenges and passions and speak to them in a familiar, warm, and accessible way. 
+2. **We are genuine.** We understand what data scientists, software engineers, and researchers need because we are data scientists, software engineers, and researchers. That means we relate to our users' challenges and passions and speak to them in a familiar, warm, and accessible way. 
 
 3. **We are translators.** Only experts can make what’s difficult look easy, and it’s our job to demystify tech-speak and actually educate.
 
@@ -36,6 +36,6 @@ nteract has a sense of humor, so feel free to be funny when it’s appropriate a
 
 Here are a few key elements of writing nteract’s voice. For more, see the [Grammar and mechanics section](/grammar-and-mechanics.md).
 
-* [**Active voice**](/grammar-and-mechanics.md/#header-3-active-voice) Use active voice. Avoid passive voice.
-* [**Avoid slang and jargon**](/grammar-and-mechanics.md/#header-3-slang-and-jargon) Write in plain English.
-* [**Write positively**](/grammar-and-mechanics.md/#header-3-write-positively) Use positive language rather than negative language.
+* [**Active voice**](/grammar-and-mechanics.md?id=active-voice) Use active voice. Avoid passive voice.
+* [**Avoid slang and jargon**](/grammar-and-mechanics.md?id=slang-and-jargon) Write in plain English.
+* [**Write positively**](/grammar-and-mechanics.md?id=write-positively) Use positive language rather than negative language.
