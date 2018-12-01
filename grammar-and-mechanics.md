@@ -48,8 +48,8 @@ We use a few different forms of capitalization. Title case capitalizes the first
 
 When writing out an email address or website URL, use all lowercase.
 
-- freddie@mailchimp.com
-- mailchimp.com
+- cubey@nteract.io
+- nteract.io
 
 Don't capitalize random words in the middle of sentences. Here are some words that we never capitalize in a sentence. For more, see the [Word List](/16-word-list.html.md).
 
@@ -138,16 +138,16 @@ Use the degree symbol and the capital F abbreviation for Fahrenheit.
 
 #### Time
 
-Use numerals and am or pm, with a space in between. Don’t use minutes for on-the-hour time. 
+Use numerals and am or pm, with a space in between. Don’t use minutes for on-the-hour time.
 
-- 7 am 
+- 7 am
 - 7:30 pm
 
-Use a hyphen between times to indicate a time period. 
+Use a hyphen between times to indicate a time period.
 
 - 7am-10:30pm
 
-Specify time zones when writing about an event or something else people would need to schedule. Since Mailchimp is in Atlanta, we default to ET.
+Specify time zones when writing about an event or something else people would need to schedule. Since nteract is in Atlanta, we default to ET.
 
 Abbreviate time zones within the continental United States as follows:
 
@@ -201,7 +201,7 @@ Otherwise, use common sense. If you’re unsure, read the sentence out loud. Whe
 
 #### Dashes and hyphens
 
-Use a hyphen (-) without spaces on either side to link words into single phrase, or to indicate a span or range. 
+Use a hyphen (-) without spaces on either side to link words into single phrase, or to indicate a span or range.
 
 - first-time user
 - Monday-Friday
@@ -295,7 +295,7 @@ For more on writing about gender, see [Writing about people](/03-writing-about-p
 
 When quoting someone in a blog post or other publication, use the present tense.
 
-- “Using Mailchimp has helped our business grow,” says Jamie Smith.
+- “Using nteract has helped our business grow,” says Jamie Smith.
 
 #### Names and titles
 
@@ -334,19 +334,17 @@ Capitalize the names of websites and web publications. Don’t italicize.
 
 Avoid spelling out URLs, but when you need to, leave off the http://www.
 
-#### Writing about Mailchimp
+#### Writing about nteract
 
-Our company's legal entity name is "The Rocket Science Group, LLC." Our trade name is "Mailchimp." Use "The Rocket Science Group, LLC" only when writing legal documents or contracts. Otherwise, use "Mailchimp."
+Our community's name is "nteract." Always lowerase the first “n” nteract.
 
-Always capitalize the first “M” and lowercase the “c” in Mailchimp.
+Refer to nteract as “we,” not “it.”
 
-Refer to Mailchimp as “we,” not “it.”
+Capitalize the proper names of nteract products, features, pages, and tools. When referencing projects like Papermill, Desktop, and Play, include "nteract" in the name on first mention.
 
-Capitalize the proper names of Mailchimp products, features, pages, and tools. When referencing non-trademarked products like Pro, Snap, and Automation, include "Mailchimp" in the name on first mention.
-
-- Mailchimp Pro
-- Mailchimp Snap
-- Look What You Can Do
+- nteract Papermill
+- nteract Desktop
+- nteract Play
 
 #### Writing about other companies
 
@@ -362,7 +360,7 @@ Refer to a company or product as “it” (not “they”).
 
 Write in plain English. If you need to use a technical term, briefly define it so everyone can understand.
 
-- Mailchimp's ops team is constantly scaling our servers to make sure our users have a great experience with our products. One way we do this is with shards, or partitions, that help us better horizontally scale our database infrastructure.
+- nteract's ops team is constantly scaling our servers to make sure our users have a great experience with our products. One way we do this is with shards, or partitions, that help us better horizontally scale our database infrastructure.
 
 ### Text formatting
 
@@ -371,7 +369,7 @@ Use italics to indicate the title of a long work (like a book, movie, or album) 
 - *Dunston Checks In*
 - Brandon *really* loves *Dunston Checks In*.
 
-Use italics when citing an example of an in-app Mailchimp element, or referencing button and navigation labels in step-by-step instructions:
+Use italics when citing an example of an in-app nteract element, or referencing button and navigation labels in step-by-step instructions:
 
 - When you're all done, click *Send*.
 - The familiar A/B testing variables—*Subject line*, *From name*, and *Send time*—have now been joined by *Content*, and up to 3 combinations of a single variable can now be tested at once.

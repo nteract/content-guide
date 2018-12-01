@@ -16,8 +16,8 @@ Buttons should always contain actions. The language should be clear and concise.
 
 Standard website buttons include:
 
-- Log In
-- Sign Up Free
+- Download
+- Sign Up
 - Subscribe
 - Email Us
 

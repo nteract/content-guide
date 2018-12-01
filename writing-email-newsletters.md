@@ -2,17 +2,7 @@
 
 We send a lot of email ourselves, and we follow our own best practices to set an example for users. But as devices shrink and the inbox evolves, our oldest tip is still the most important: Only send when you have something to say.
 
-## Basics
-
-Our email newsletters help empower and inform Mailchimp users. Here are the most common types of content we send by email:
-
-- Product and feature announcements
-- Tips for getting the most out of existing products and features
-- Regular monthly newsletters
-- Automated series (Getting Started with Mailchimp)
-- Event invitations and information about online courses
-- System alerts about changes to functionality or scheduled maintenance
-- Internal newsletters
+At nteract, we send a monthly newsletter that keeps our community aware of the going-ons and plans of the community.
 
 ## Guidelines
 
@@ -24,7 +14,7 @@ Every email newsletter is made up of the following elements. Make sure they’re
 
 #### From name
 
-This is usually the company or team’s name. It identifies the sender in the recipient's inbox.
+This is usually the author’s name. It identifies the sender in the recipient's inbox.
 
 #### Subject line
 
@@ -48,7 +38,7 @@ All campaigns follow [CAN-SPAM rules](https://mailchimp.com/help/terms-of-use-an
 
 ### Consider your perspective
 
-When sending an email newsletter from Mailchimp, use the 3rd person “we.” When sending a newsletter as an individual, use the 1st person.
+When sending an email newsletter from nteract, use the 3rd person “we.” When sending a newsletter as an individual, use the 1st person.
 
 ### Use a hierarchy
 Most readers will be scanning your emails or viewing them on a small screen. Put the most important information first.
@@ -68,4 +58,4 @@ It’s exciting to send to millions of users at once, but it’s doubtful that e
 Once you've selected an audience, adjust the language to fit their needs. For example, users who developed custom integrations are more likely to understand and appreciate direct, technical terms.
 
 ### Test your campaigns
-Use the preview mode to begin, and run an Inbox Inspection to see your newsletter in different email clients. Read your campaign out loud to yourself, then send a test to a coworker for a second look.
+Use the preview mode to begin, and run an Inbox Inspection to see your newsletter in different email clients. Read your campaign out loud to yourself, then send a test to a another community member for a second look.

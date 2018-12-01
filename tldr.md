@@ -1,6 +1,6 @@
 # TL;DR
 
-The Mailchimp Content Style Guide goes into depth on many subjects. It may be more information than you need. Here are the most important things to know.
+The nteract Content Style Guide goes into depth on many subjects. It may be more information than you need. Here are the most important things to know.
 
 ## Principles
 
@@ -13,7 +13,7 @@ Good content is:
 
 ## Voice and tone
 
-Mailchimp’s voice is:
+nteract’s voice is:
 
 * Human
 * Familiar
@@ -24,11 +24,11 @@ Our tone changes depending on the situation, but it's generally informal. We hav
 
 Our priorities are to educate our users about our products without patronizing or confusing them, so they can get their work done and get on with their lives.
 
-Related resource: The Mailchimp [Voice and Tone guide](http://voiceandtone.com/).
+Related resource: The nteract [Voice and Tone guide](http://voiceandtone.com/).
 
 ## Writing about people
 
-We write and build apps with a person-first perspective. Being aware of the impact of your language will help make Mailchimp a better place to work and a better steward of our values in the world.
+We write and build apps with a person-first perspective. Being aware of the impact of your language will help make nteract a better place to work and a better steward of our values in the world.
 
 - Don’t reference age or disability unless it’s relevant to what you’re writing.
 - Avoid gendered language and use the singular “they.”

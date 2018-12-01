@@ -5,6 +5,7 @@ These words can be slippery. Here’s how we write them.
 - add-on (noun, adjective), add on (verb)
 - back end (noun), back-end (adjective)
 - beta
+- nteract (always use a lowercase n, even with it begins a sentence)
 - checkbox
 - coworker
 - double-click
