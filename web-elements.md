@@ -8,7 +8,7 @@ Every piece of content we publish is supported by a number of smaller pieces. Th
 
 Alt text is a way to label images, and it's especially important for people who can’t see the images on our website. Alt text should describe the image in a brief sentence or two.
 
-For more on how and why we use alt text, read the [Accessibility](/12-writing-for-accessibility.html.md) section.
+For more on how and why we use alt text, read the [Accessibility](writing-for-accessibility.md) section.
 
 ### Buttons
 
@@ -59,8 +59,8 @@ Provide a link whenever you’re referring to something on an external website. 
 
 Don’t include preceding articles (a, an, the, our) when you link text. For example:
 
-- Yes: Read the [automation guide](#) for details.
-- No: Read [the automation guide](#) for details.
+- Yes: Read the [user guide](#) for details.
+- No: Read [the user guide](#) for details.
 
 If a link comes at the end of a sentence or before a comma, don’t link the punctuation mark.
 
@@ -86,7 +86,7 @@ Use title case for headings and sentence case for button fields.
 
 ### Related articles
 
-Sometimes a long piece of copy lends itself to a list of related links at the end. Don’t go overboard—4 is usually plenty.
+Sometimes a long piece of copy lends itself to a list of related links at the end. Don’t go overboard— four is usually plenty.
 
 Related articles should appear in a logical order, following the step down/step up rule: The first article should be a step down in complexity from the current article. The second one should be a step up in complexity to a more advanced article.
 
