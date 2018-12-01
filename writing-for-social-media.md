@@ -13,7 +13,7 @@ The guidelines in this section apply to all of nteract's channels.
 
 ## Guidelines
 
-Our writing for social media should generally follow the style points outlined in the [Voice and tone](/02-voice-and-tone.html.md) and [Grammar and mechanics](/04-grammar-and-mechanics.html.md) sections. Here are some additional pointers, too.
+Our writing for social media should generally follow the style points outlined in the [Voice and tone](voice-and-tone.md) and [Grammar and mechanics](grammar-and-mechanics.md) sections. Here are some additional pointers, too.
 
 ### Write short, but smart
 
