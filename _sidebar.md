@@ -12,5 +12,6 @@
 * [Creating structured content](creating-structured-content.md)
 * [Word list](word-list.md)
 * [Using our logo](using-our-logo.md)
+* [Templates](templates.md)
 * [Further reading](further-reading.md)
 * [TL;DR](tldr.md)
